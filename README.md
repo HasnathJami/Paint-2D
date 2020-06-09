@@ -1,2 +1,3 @@
-# Paint-2D
-A 2D paint app
+Paint 2D
+========
+A desktop app which is used for 2D panting
